@@ -3,5 +3,3 @@ YMusic is an Android browser optimized for YouTube, offering background audio pl
 
 YMusic is a lightweight Android app designed to improve your YouTube experience.  
 It allows background audio playback, reduces data consumption, and provides a smooth browsing interface tailored for mobile devices.  
-
-👉 Get the latest **[ymusic mod apk](https://ymusic.id/)** here.  
